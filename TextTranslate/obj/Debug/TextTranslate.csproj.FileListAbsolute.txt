@@ -1,0 +1,9 @@
+C:\Users\Anouar BEN ZAHRA\Source\repos\TextTranslate\TextTranslate\bin\Debug\TextTranslate.dll
+C:\Users\Anouar BEN ZAHRA\Source\repos\TextTranslate\TextTranslate\bin\Debug\TextTranslate.pdb
+C:\Users\Anouar BEN ZAHRA\Source\repos\TextTranslate\TextTranslate\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Anouar BEN ZAHRA\Source\repos\TextTranslate\TextTranslate\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Anouar BEN ZAHRA\Source\repos\TextTranslate\TextTranslate\obj\Debug\TextTranslate.csprojAssemblyReference.cache
+C:\Users\Anouar BEN ZAHRA\Source\repos\TextTranslate\TextTranslate\obj\Debug\TextTranslate.csproj.CoreCompileInputs.cache
+C:\Users\Anouar BEN ZAHRA\Source\repos\TextTranslate\TextTranslate\obj\Debug\TextTranslate.csproj.CopyComplete
+C:\Users\Anouar BEN ZAHRA\Source\repos\TextTranslate\TextTranslate\obj\Debug\TextTranslate.dll
+C:\Users\Anouar BEN ZAHRA\Source\repos\TextTranslate\TextTranslate\obj\Debug\TextTranslate.pdb
